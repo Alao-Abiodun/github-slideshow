@@ -3,5 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-This is an Introduction to github usage using gitlab
+# This is a new phase of portfolio page!
+
 Use the left arrow to go back
